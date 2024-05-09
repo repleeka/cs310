@@ -1,0 +1,12 @@
+Program,Description
+"Implementing Search Algorithms (DFS, BFS, A*)",Write Python code to solve problems using search algorithms.
+"Implementing basic machine learning algorithms (linear regression, k-means clustering)",Implement basic machine learning algorithms from scratch.
+"Using libraries like NumPy and scikit-learn",Use libraries for data manipulation and model training.
+"Training and evaluating supervised learning models (decision trees, support vector machines, neural networks)",Train and evaluate supervised learning models for classification and regression tasks.
+"Exploring clustering algorithms (k-means, DBSCAN) and dimensionality reduction techniques (PCA)",Explore clustering algorithms and dimensionality reduction techniques.
+"Building simple NLP models for text classification, sentiment analysis, or named entity recognition",Build simple NLP models for various tasks.
+"Using libraries like NLTK or spaCy",Use libraries for natural language processing tasks.
+"Implementing a basic feedforward neural network using TensorFlow or PyTorch",Implement a basic feedforward neural network.
+"Training the network on a dataset (e.g., MNIST digits)",Train the network on a dataset.
+"Exploring basic reinforcement learning concepts",Explore basic reinforcement learning concepts.
+"Implementing a simple Q-learning algorithm",Implement a simple Q-learning algorithm.
